@@ -18,7 +18,7 @@ bash
 python head_pose_estimation.py
 ```
 ### Demo
-![demo](../../blob/master/demo.gif)
+![demo](demo.gif)
 
 ## Contributing
 
