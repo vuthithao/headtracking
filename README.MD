@@ -3,7 +3,7 @@ Use head pose + eyeball
 
 ### Requirement:
 ```
-Tensorflow>2
+Tensorflow=2.2
 OpenCV
 sklearn=0.19.1 # for face spoofing. 
 The model used was trained with this version and does not support recent ones.
